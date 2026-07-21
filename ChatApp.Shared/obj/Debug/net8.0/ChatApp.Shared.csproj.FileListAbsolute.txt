@@ -1,0 +1,12 @@
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.csproj.AssemblyReference.cache
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.AssemblyInfoInputs.cache
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.AssemblyInfo.cs
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\DELL\ChatApp\ChatApp.Shared\bin\Debug\net8.0\ChatApp.Shared.deps.json
+C:\Users\DELL\ChatApp\ChatApp.Shared\bin\Debug\net8.0\ChatApp.Shared.dll
+C:\Users\DELL\ChatApp\ChatApp.Shared\bin\Debug\net8.0\ChatApp.Shared.pdb
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.dll
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\refint\ChatApp.Shared.dll
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ChatApp.Shared.pdb
+C:\Users\DELL\ChatApp\ChatApp.Shared\obj\Debug\net8.0\ref\ChatApp.Shared.dll
