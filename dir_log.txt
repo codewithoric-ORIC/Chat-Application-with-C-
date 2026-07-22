@@ -1,0 +1,19 @@
+total 1560
+drwxr-xr-x@ 18 mac  staff     576 Jul 22 22:19 .
+drwxr-xr-x@ 14 mac  staff     448 Jul 22 20:46 ..
+drwxr-xr-x@ 15 mac  staff     480 Jul 22 22:19 .git
+-rw-r--r--@  1 mac  staff   74961 Jul 22 22:11 CS-4107.docx
+-rw-r--r--@  1 mac  staff  156151 Jul 22 22:11 CS-4107.pdf
+-rw-r--r--@  1 mac  staff   18862 Jul 22 22:15 CS-4108-Final.html
+-rw-r--r--@  1 mac  staff   33806 Jul 22 22:11 CS-4108.docx
+-rw-r--r--@  1 mac  staff  465657 Jul 21 22:05 CS-4108.pdf
+drwxr-xr-x@ 12 mac  staff     384 Jul 21 21:59 ChatApp.Client
+drwxr-xr-x@  8 mac  staff     256 Jul 21 21:59 ChatApp.Server
+drwxr-xr-x@  8 mac  staff     256 Jul 21 21:59 ChatApp.Shared
+-rw-r--r--@  1 mac  staff     197 Jul 21 21:59 ChatApp.slnx
+-rw-r--r--@  1 mac  staff   20480 Jul 21 21:59 chat.db
+-rw-r--r--@  1 mac  staff     255 Jul 22 22:17 conversion_log.txt
+-rw-r--r--@  1 mac  staff    2437 Jul 22 22:19 convert_to_docx.py
+-rw-r--r--@  1 mac  staff       0 Jul 22 22:19 dir_log.txt
+drwxr-xr-x@  8 mac  staff     256 Jul 21 22:19 venv
+-rw-r--r--@  1 mac  staff     162 Jul 22 22:11 ~$S-4108.docx

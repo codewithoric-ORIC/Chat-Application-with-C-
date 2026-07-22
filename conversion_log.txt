@@ -1,0 +1,8 @@
+Starting conversion...
+Processing /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4107-Corrected.md -> /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4107-Final.docx
+Read 124 lines from /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4107-Corrected.md
+Successfully created /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4107-Final.docx
+Processing /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4108-Corrected.md -> /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4108-Final.docx
+Read 77 lines from /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4108-Corrected.md
+Successfully created /Users/mac/Desktop/School/Chat-Application-with-C-/CS-4108-Final.docx
+All conversions complete!

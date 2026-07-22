@@ -1,0 +1,17 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    CS-4108-Corrected.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	CS-4108-Final.html
+	conversion_log.txt
+	convert_to_docx.py
+	dir_log.txt
+	git_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
